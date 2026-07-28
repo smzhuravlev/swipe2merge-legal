@@ -1,3 +1,7 @@
+---
+title: Privacy Policy for Swipe2Merge
+---
+
 # Privacy Policy for Swipe2Merge
 
 **Effective date: July 28, 2026**
