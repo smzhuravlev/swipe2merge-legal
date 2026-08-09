@@ -20,13 +20,9 @@ Swipe2Merge does not require an account and does not ask for your name, email ad
 
 ## 3. Advertising
 
-Advertising is disabled in the current release of Swipe2Merge, and the application does not request or display advertisements.
+Swipe2Merge does not display advertising and does not include an advertising SDK. The application does not request access to the Android advertising ID.
 
-The application includes an optional integration with the Google Mobile Ads SDK for a possible future release. If advertising is enabled in the future, this Privacy Policy and the application's Google Play Data safety information will be updated before publication.
-
-Google's Privacy Policy is available at:
-
-https://policies.google.com/privacy
+If advertising is added in a future release, this Privacy Policy and the application’s Google Play Data safety information will be updated before publication.
 
 ## 4. In-app purchases
 
