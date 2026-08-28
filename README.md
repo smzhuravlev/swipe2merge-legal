@@ -1,2 +1,2 @@
 # swipe2merge-legal
-Legal information on Swip2Merge project.
+Legal information on Swipe2Merge project.
